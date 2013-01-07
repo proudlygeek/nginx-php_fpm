@@ -1,0 +1,3 @@
+# Vagrantfile for nginx + php_fpm
+
+Info soon...
