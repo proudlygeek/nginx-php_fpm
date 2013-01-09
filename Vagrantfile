@@ -19,6 +19,7 @@ Vagrant::Config.run do |config|
     chef.add_recipe "php-fpm"
     chef.add_recipe "nginx"
     chef.add_recipe "php"
+    chef.add_recipe "php::mysql"
     chef.add_recipe "mysql"
     chef.add_recipe "mysql::server"
     chef.add_recipe "git"
