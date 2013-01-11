@@ -28,7 +28,7 @@
   vagrant box up
   ```
 
-6.  **Login via ssh and start customing!**
+6.  **Login via ssh and start customizing!**
   ```bash
   vagrant ssh
   ```
